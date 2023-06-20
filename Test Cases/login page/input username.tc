@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>input username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32539f83-984f-49ab-ada8-d041b53d4698</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7fca2da3-d58c-4d7f-bfe5-198b0d7c3331</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>7fca2da3-d58c-4d7f-bfe5-198b0d7c3331</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
